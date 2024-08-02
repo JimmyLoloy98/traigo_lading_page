@@ -19,16 +19,16 @@
   ],
   "callToAction": {
     "text": "Contáctanos!",
-    "href": "wa.me/+51994050357"
+    "href": "https://wa.link/1xzy45"
   },
   "mainHero": {
     "title": "Ahora pidelo con:",
     "subtitle": "TRAIGO",
     "description": "Traigo se encarga de comparar los precios más económicos del mercado, encuentra cualquier producto con un menor precio, y te lo llevamos hasta la puerta de tu hogar.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "img": "/assets/images/happyTeam.png",
     "primaryAction": {
       "text": "Contáctanos!",
-      "href": "wa.me/+51994050357"
+      "href": "https://wa.link/1xzy45"
     },
     "secondaryAction": {
       "text": "Facebook",
