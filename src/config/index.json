@@ -140,9 +140,9 @@
       }
     ],
     "socialMedia": {
-      "Facebook": "https://www.facebook.com/traigo.pe",
-      "Whatsapp": "https://wa.link/1xzy45",
-      "Web Site": "https://traigo.netlify.app/"
+      "facebook": "https://www.facebook.com/traigo.pe",
+      "whatsapp": "https://wa.link/1xzy45",
+      "website": "https://traigo.netlify.app/"
     }
   }
 }
