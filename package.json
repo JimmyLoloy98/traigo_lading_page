@@ -10,7 +10,6 @@
     "build-prod": "run-s clean build export",
     "clean": "rimraf .next out",
     "build-types": "tsc --noEmit --pretty",
-    "prepare": "husky install"
   },
   "dependencies": {
     "@headlessui/react": "^1.4.1",
